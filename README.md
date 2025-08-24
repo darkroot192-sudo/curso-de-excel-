@@ -1,7 +1,4 @@
-Perfecto, Otoniel 🙌
-Aquí tienes una **descripción clara y profesional** para que la pongas en GitHub junto al repositorio del curso en Excel:
 
----
 
 # 📘 Curso Completo de Excel – Desde Básico a Avanzado
 
